@@ -1,0 +1,1 @@
+Creating the Own payment integration method for the testing purpose using razorpay
